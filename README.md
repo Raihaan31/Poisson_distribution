@@ -1,4 +1,5 @@
 # Fitting Poisson  distribution
+date:05\10\2024
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
