@@ -1,5 +1,10 @@
+DATE:05-10-2024;
+EXPNO: 01;
+NAME : R RAIHAAN AHMED;
+REF NO: 24010543
+
 # Fitting Poisson  distribution
-date:05\10\2024
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
